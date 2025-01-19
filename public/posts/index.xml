@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/my-second-post/</link>
       <pubDate>Sun, 19 Jan 2025 15:28:46 +0100</pubDate>
       <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description>&lt;h2 id=&#34;greatest-post-ever&#34;&gt;Greatest Post Ever&lt;/h2&gt;</description>
+      <description>&lt;h2 id=&#34;greatest-post-ever&#34;&gt;Greatest Post Ever&lt;/h2&gt;&#xA;&lt;p&gt;Not a bad blog&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
