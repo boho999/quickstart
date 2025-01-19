@@ -4,3 +4,5 @@ draft = false
 title = 'My Second Post'
 +++
 ## Greatest Post Ever
+
+Not a bad blog
